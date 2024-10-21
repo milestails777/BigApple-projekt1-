@@ -1,0 +1,30 @@
+
+body{
+    background-color: brown;
+}
+
+.mainpage{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.info{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    margin-left: 150px;
+    height: 500;
+    width: 500;
+    border-radius: 5px;
+    background-color: black;
+    padding: 5px;
+    margin: 5px;
+}
+
+p{
+    background-color: aliceblue;
+}
